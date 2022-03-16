@@ -6,8 +6,9 @@ This is a plugin for markdown-it which adds support for embedding audio/video in
 node.js, bower:
 
 ```bash
-npm install markdown-it-html5-embed --save
-bower install markdown-it-html5-embed --save
+npm install markdown-it-html5-embed-fix --save
+bower install markdown-it-html5-embed-fix --save
+yarn add -D markdown-it-html5-embed-fix
 ```
 
 ## Use
